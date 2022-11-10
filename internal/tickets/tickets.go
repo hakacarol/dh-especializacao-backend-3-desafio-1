@@ -1,13 +1,6 @@
 package tickets
 
-import (
-	"fmt"
-	"time"
-)
-
 type Ticket struct {
-	
-
 }
 
 // exemplo 1
